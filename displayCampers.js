@@ -7,6 +7,6 @@ const codeloccol = {
 };
 function displayCompers(){
   
-  console.log(codeloccol.friends)
+  console.log("'" + codeloccol.friends + "'")
 };
 displayCompers();
